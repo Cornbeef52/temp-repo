@@ -62,3 +62,15 @@ padding-left: 30px;
 div.container-fluid {
   background-color: #ccf0ff;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.pride {
+  font-size: 25px;
+  font-family: 'Poppins', sans-serif;
+}
